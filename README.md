@@ -1,8 +1,11 @@
-= Java ScreenCapture Script =
+Java ScreenCapture Script
+=========================
+
 This script can be used to capture screenshots and then gerenate a video with the resultant screenshots.
 
 
-== How to Use ==
+How to Use
+----------
 
 ```
 $ java ScreenShot $time $fps
